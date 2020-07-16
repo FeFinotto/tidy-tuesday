@@ -4,10 +4,10 @@ This repository shows my contributions to the #TidyTuesday challenge, a weekly s
 
 _______
 [2020/28](Scripts/2020_28_coffe_ratings.Rmd) - Coffee Ratings
-<br>
+<br/>
 ![Alt text](Images/2020_20_Coffee_Ratings.png?raw=true)
 
 _______
-[2020/28](Scripts/2020_27_X_Men.Rmd) - Claremont Run of X-Men
-<br>
+[2020/27](Scripts/2020_27_X_Men.Rmd) - Claremont Run of X-Men
+<br/>
 ![Alt text](Images/2020_27_X_Men.png?raw=true)
